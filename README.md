@@ -1,4 +1,4 @@
-![Branding](https://github.com/TheMrSnoop/Starlyte-Engine/blob/main/Starlight-GithubDark.png =250x250)
+![](https://github.com/TheMrSnoop/Starlyte-Engine/blob/main/Starlight-GithubDark.png | width=50)
 
 a game engine built from scratch using vulcan.
 
