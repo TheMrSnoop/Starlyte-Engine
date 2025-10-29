@@ -1,4 +1,4 @@
-<img src="https://github.com/TheMrSnoop/Starlyte-Engine/blob/main/Starlight-GithubDark.png" width="50">
+<img src="https://github.com/TheMrSnoop/Starlyte-Engine/blob/main/Starlight-Transparent.png" width="64">
 
 a game engine built from scratch using vulcan.
 
